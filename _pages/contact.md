@@ -150,7 +150,7 @@ PassMark 점수 : 25,290
 <dt>
 RTX3070
 <br>
-<img src="http://www.weeklypost.kr/news/photo/202011/1593_3713_3710.jpg" style="width:335px; height:200px; border-radius: 10%;">
+<img src="https://elchapuzasinformatico.com/wp-content/uploads/2020/09/Nvidia-GeForce-RTX-3070-Founders-Edition.jpg" style="width:335px; height:200px; border-radius: 10%;">
 <br>
 메모리 : 8GB
 <br>
